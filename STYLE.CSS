@@ -1,0 +1,53 @@
+body{
+    width: 95%;
+    max-height: 800px;
+    margin: auto;
+    background: url(wallpaperflare.com_wallpaper\ \(6\).jpg)center;
+    
+    font-family: lato;
+    color: #fff;
+
+
+}
+main{
+    background: #00000054;
+    padding: 5px 40px;
+    margin-top: 20px;
+    border-radius: 10px;
+    
+}
+.logo, .band-name, .headline {
+    margin: 0%;
+    text-align: center;
+} 
+.conserts {
+    margin: 30px 0;
+    text-align: center;
+    width: 100%;
+}
+ .conserts table {
+     background: crimson;
+     border-radius: 10px;
+     margin: 0 auto;
+
+ }
+ .box1 {
+    border: solid 1px;
+    margin: 4%;
+    padding: 5%;
+    box-shadow: 1px 3px 7px 10px rgba(54, 240, 7, 0.267);
+   width: 500px;
+   height: 300px;
+   
+ }
+ h2{
+     text-shadow: 2px 3px 4px rgb(60, 177, 7);
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     
+ }
+ img{
+     box-shadow: 1px 2px 2px 5px #000;
+     margin: 9%;
+             
+    
+ }
